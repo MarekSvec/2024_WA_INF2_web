@@ -22,8 +22,11 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: rgba(0, 0, 0, 0.7);
+            background: rgba(0, 0, 0, 0.2);
             z-index: 0;
+        }
+        .Europa {
+            font-size: 10em;
         }
 
         h1 {
@@ -35,7 +38,7 @@
 
         /* Battle title styling */
         .battle-link {
-            color: #ffe600;
+            color: #ffffff;
             font-size: 1.5em;
             font-weight: bold;
             text-decoration: none;
@@ -72,10 +75,15 @@
         }
     </style>
 
-    <h1>
+    
+    <h1 class="Europa"> 
         GLORIA PRO EUROPA
     </h1>
 {% endblock %}
+
+{% block title %}
+        GLORIA PRO EUROPA
+    {% endblock %}
 
 {% block main %}
     <div style="text-align: center; position: relative; z-index: 1;">
