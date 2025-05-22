@@ -6,8 +6,7 @@
             "title": "European Commission President",
             "name": "Ursula von der Leyen",
             "order": 1,
-            "image": "https://videos.openai.com/vg-assets/assets%2Ftask_01jv9jrw3rev198yv7aj07cbt3%2F1747299673_img_3.webp?st=2025-05-15T07%3A20%3A00Z&se=2025-05-21T08%3A20%3A00Z&sks=b&skt=2025-05-15T07%3A20%3A00Z&ske=2025-05-21T08%3A20%3A00Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=3nb%2Fq2gN%2FgbRhfWmt6gJCE%2BKWf1rOuZnv%2B8eH%2FQedrQ%3D&az=oaivgprodscus"
-        }
+            "image": "images/Leyen.png"        }
     },
     {
         "model": "content.article",
@@ -16,7 +15,7 @@
             "title": "European Parliament President",
             "name": "Roberta Metsola",
             "order": 2,
-            "image":"https://videos.openai.com/vg-assets/assets%2Ftask_01jv9jnt8veabrsefdpsw5bv1h%2F1747299570_img_2.webp?st=2025-05-15T07%3A17%3A56Z&se=2025-05-21T08%3A17%3A56Z&sks=b&skt=2025-05-15T07%3A17%3A56Z&ske=2025-05-21T08%3A17%3A56Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=Ci26fA2uDcgiFCO6uBcDrk9%2BRKvp%2Bo8vZcPMQuoq%2BMI%3D&az=oaivgprodscus"
+            "image":"images/Metsola.png"
         }
     },
     {
@@ -26,7 +25,7 @@
             "title": "European Council President",
             "name": "Antonio Costa",
             "order": 3,
-            "image":"https://videos.openai.com/vg-assets/assets%2Ftask_01jv9jkh6afxatdrkte4fb4vra%2F1747299538_img_0.webp?st=2025-05-15T07%3A20%3A00Z&se=2025-05-21T08%3A20%3A00Z&sks=b&skt=2025-05-15T07%3A20%3A00Z&ske=2025-05-21T08%3A20%3A00Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=WI8docdYVyx%2Fc8cHcM%2BPVVMx%2B4ARhHF7UiOXzpTncZM%3D&az=oaivgprodscus"
+            "image":"images/Costa.png"
         }
     },
     {
@@ -36,7 +35,7 @@
             "title": "President of France",
             "name": "Emanuel Macron",
             "order": 4,
-            "image":"https://videos.openai.com/vg-assets/assets%2Ftask_01jv9jfddkf5t9ydcvhkdht4ye%2F1747299357_img_0.webp?st=2025-05-15T07%3A19%3A25Z&se=2025-05-21T08%3A19%3A25Z&sks=b&skt=2025-05-15T07%3A19%3A25Z&ske=2025-05-21T08%3A19%3A25Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=hui10a4KJcHuOD2lomTcVZbrCi32xQYxyKpZ%2FmIaAtk%3D&az=oaivgprodscus"
+            "image": "images/Macron.png"
         }
     },
     {
@@ -46,7 +45,7 @@
             "title": "Chancellor of Germany",
             "name": "Friedrich Merz",
             "order": 5,
-            "image":"https://videos.openai.com/vg-assets/assets%2Ftask_01jv9jtdr5e2098w21xk1nyfe1%2F1747299734_img_2.webp?st=2025-05-15T07%3A16%3A06Z&se=2025-05-21T08%3A16%3A06Z&sks=b&skt=2025-05-15T07%3A16%3A06Z&ske=2025-05-21T08%3A16%3A06Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=xGOrAlbJcS7%2F2kvA1Qe%2FiU5p4DlbsVlBbAyr6BLhYJE%3D&az=oaivgprodscus"
+            "image":"images/Merz.png"
         }
     }
 ]

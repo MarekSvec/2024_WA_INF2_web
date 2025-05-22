@@ -15,7 +15,6 @@
     </style>
 {% endblock %}
 
-
 {% block header %}
     {{ article.title }}
 {% endblock %}
@@ -31,14 +30,12 @@
         text-align: justify;
         color: black;
     ">
-        <img src="{{ article.image }}" alt="{{ article.title }}" 
-             style="max-width: 100%; height: auto; display: block; margin: 0 auto 20px; border-radius: 5px;">
+        <img src="{% static article.image %}" alt="{{ article.title }}" 
+             style="max-width: 400px; width: 100%; height: auto; display: block; margin: 0 auto 20px; border-radius: 5px;">
 
         <p><strong>Name:</strong> {{ article.name }}</p>
         <p><strong>Title:</strong> {{ article.title }}</p>
 
-            
-        
         <a href="/">Back to homepage</a>
     </div>
 {% endblock %}
